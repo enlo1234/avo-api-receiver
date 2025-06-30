@@ -33,15 +33,3 @@ npm run dev
 
 - **Workspace ID**: Found in your Avo dashboard URL after `/workspaces/`
 - **Branch ID**: Found in your Avo dashboard URL after `/branches/` (usually `main` or `master`)
-
-## Tech Stack
-
-- React 18 with TypeScript
-- Vite
-- Tailwind CSS
-
-## Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run lint` - Run linter
